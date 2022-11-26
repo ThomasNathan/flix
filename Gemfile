@@ -50,6 +50,8 @@ gem "bootsnap", require: false
 
 gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 
+gem "aws-sdk-s3"
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
